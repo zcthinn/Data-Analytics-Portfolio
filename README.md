@@ -4,7 +4,6 @@ A curated collection of end-to-end data analytics projects demonstrating practic
 
 Each project follows a business-focused workflow:
 
-**Business Question → Data Preparation → Analysis → Visualization → Insight → Recommendation**
 
 The goal is to translate complex datasets into clear, actionable insights that support better business decisions.
 
@@ -88,19 +87,25 @@ Performed large-scale exploratory analysis of movie budgets, revenue, profitabil
 ---
 
 ## Technical Skill Set
-* **Languages & Databases:** Python (pandas), SQL (MySQL), DAX, HTML
-* **Tools & BI Platforms:** Power BI, Microsoft Excel, Power Query, Jupyter Notebook
-* **Visualization:** Matplotlib, Plotly Express, Power BI native visuals
-* **Analytics Frameworks:** Star Schema Modeling, Descriptive & Multivariate Statistics, Risk Matrix Assessment, Scenario Analysis
-* **Engineering Practices:** Engine-level query optimization, strict database mode adherence (`ONLY_FULL_GROUP_BY`), QA cross-validation, and AI-accelerated workflows
+
+- **BI & Reporting:** Power BI, DAX, Power Query, Microsoft Excel
+- **SQL & Databases:** SQL, MySQL, Advanced SQL, Window Functions
+- **Python & Analytics:** Python, pandas, Matplotlib, Plotly, Jupyter Notebook
+- **Data Modelling:** Star Schema, Relational Data Modelling, Data Transformation
+- **Statistical Analysis:** Descriptive Statistics, Multivariate Analysis, Scenario Analysis, Risk Assessment
+- **Data Quality:** Data Validation, QA Cross-Validation, Data Cleaning
 
 ---
 
-## Analytical Philosophy
-I specialize in moving past surface-level metrics to uncover root-cause patterns hidden within multi-dimensional datasets. Whether writing window-partition logic to audit corporate structures, building a discount-elasticity model to defend profit margin, or designing executive-facing dashboards, my focus stays fixed on **quantifiable business value, cost reduction, and strategic growth.**
+## Analytical Approach
+
+I focus on turning raw data into clear business insights by combining data preparation, analytical modelling, visualization, and structured problem-solving.
+
+My approach is to move beyond reporting surface-level metrics and identify the underlying drivers of business performance, then translate those findings into practical recommendations.
 
 ---
 
 ## Connect With Me
-* **GitHub:** [@zcthinn](https://github.com/zcthinn)
-* **LinkedIn:** [zar-chi-thinn](https://www.linkedin.com/in/zar-chi-thinn/)
+
+- **GitHub:** [@zcthinn](https://github.com/zcthinn)
+- **LinkedIn:** [Zar Chi Thinn](https://www.linkedin.com/in/zar-chi-thinn/)
