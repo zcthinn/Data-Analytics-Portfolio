@@ -10,35 +10,82 @@ The goal is to translate complex datasets into clear, actionable insights that s
 
 ## Projects
 
-### 1. Logistics Performance Analytics
-End-to-end Power BI analysis of logistics operations, built to isolate the operational drivers behind delivery delays. Correlates delay incidence against customer satisfaction, vehicle breakdown patterns, driver performance, and hub load/capacity across 27,979 orders, 45 vehicles, 55 drivers, and 6 hubs. Findings include a -0.74 delay-satisfaction correlation and identification of over-capacity hubs, informing targeted maintenance and load-balancing recommendations.
-* **Tech Stack:** Power BI Desktop, DAX, Power Query
-* **Repository:** [View Project](https://github.com/zcthinn/Logistics-Performance-Analytics)
+## Business Intelligence & Dashboarding
 
-### 2. Retail Sales Performance & Profit Analytics
-Profitability diagnostic built on the Superstore dataset (9,994 transactions), designed to quantify the revenue cost of discounting policy. Identified a hard profitability cliff at 20% discount depth, consistent across all regions and segments, and a ~$67K (23%) recoverable profit opportunity — delivered via a 25+ measure DAX model on a star-schema architecture.
-* **Tech Stack:** Power BI Desktop, DAX, Power Query
-* **Repository:** [View Project](https://github.com/zcthinn/retail-sales-powerbi-dashboard)
+### 1. Retail Sales Performance & Profit Analytics
+
+**Power BI · DAX · Power Query**
+
+Analysed 9,994 retail transactions to identify revenue, profitability, discounting and customer-segment drivers. Built an executive Power BI dashboard and translated findings into actionable recommendations for improving profit performance.
+
+**Best for:** Sales analytics · Commercial analytics · Management reporting
+
+→ [View Project](https://github.com/zcthinn/retail-sales-powerbi-dashboard)
+
+---
+
+### 2. Logistics Performance Analytics
+
+**Power BI · DAX · Power Query**
+
+Analysed logistics operations to identify the drivers behind delivery delays, customer satisfaction and capacity issues. Built interactive Power BI dashboards covering delivery performance, driver/vehicle performance and hub capacity.
+
+**Best for:** Operations analytics · Logistics · KPI reporting
+
+→ [View Project](https://github.com/zcthinn/Logistics-Performance-Analytics)
+
+---
 
 ### 3. Hotel Booking Cancellation Risk & Business Impact
-Risk and revenue-impact analysis of hotel booking cancellations, comparing City vs. Resort hotel performance and quantifying occupancy/revenue exposure. Statistical modeling and KPI development were conducted in Excel, then productionized into an interactive HTML dashboard for stakeholder reporting. Surfaced elevated cancellation risk in long-lead-time bookings and segment-specific cancellation drivers.
-* **Tech Stack:** Microsoft Excel, HTML, Statistical Analysis, Business Intelligence Reporting
-* **Repository:** [View Project](https://github.com/zcthinn/hotel-booking-cancellation-analysis)
 
-### 4. Advanced Employee & Workforce Analytics
-SQL-driven workforce analytics engine built to audit organizational structure and workforce cost drivers at the database level. Applies window-function partition logic and strict relational query discipline to support headcount planning and compensation analysis.
-* **Tech Stack:** MySQL
-* **Repository:** [View Project](https://github.com/zcthinn/Employee-Workforce-Analytics-SQL)
+**Excel · Statistical Analysis · Business Intelligence**
 
-### 5. Electronics Store Sales Data Analysis
-Python-based exploratory analysis of a full year of U.S. electronics store transactions (~186K orders consolidated from 12 monthly source files), built to answer core revenue and demand-timing questions. Findings include a 2.5x revenue lift in December vs. January, a 24% sales concentration in the San Francisco metro market, and a 7 PM peak ordering window — translated into inventory, marketing-timing, and product-bundling recommendations.
-* **Tech Stack:** Python, pandas, Matplotlib, Plotly, Jupyter Notebook
-* **Repository:** [View Project](https://github.com/zcthinn/Electronic-Store-Sales-Data-Analysis)
+Analysed hotel booking cancellations to understand revenue exposure, cancellation patterns and differences between hotel segments. Developed an interactive dashboard to support cancellation-risk and revenue-management decisions.
+
+**Best for:** Hospitality analytics · Revenue analytics · Business reporting
+
+→ [View Project](https://github.com/zcthinn/hotel-booking-cancellation-analysis)
+
+---
+
+## SQL & Workforce Analytics
+
+### 4. Employee & Workforce Analytics
+
+**MySQL · Advanced SQL · Window Functions**
+
+Built a SQL-based workforce analysis examining organisational structure, compensation, promotions, employee performance and workforce trends using advanced relational queries and window functions.
+
+**Best for:** HR analytics · SQL analysis · Workforce reporting
+
+→ [View Project](https://github.com/zcthinn/Employee-Workforce-Analytics-SQL)
+
+---
+
+## Python Data Analysis
+
+### 5. Electronics Store Sales Analysis
+
+**Python · pandas · Matplotlib · Plotly**
+
+Analysed approximately 186K electronics transactions to identify monthly sales trends, geographic performance, purchasing patterns and product-level opportunities.
+
+**Best for:** Python analytics · Exploratory data analysis · Sales analytics
+
+→ [View Project](https://github.com/zcthinn/Electronic-Store-Sales-Data-Analysis)
+
+---
 
 ### 6. Movies Data Analysis
-Python-based exploratory analysis of a large-scale movie industry dataset (~1M titles, 1950–2025), built to separate scale effects from investment efficiency. Found that per-film budget, revenue, and ratings have stayed flat for 75 years while production volume grew ~10x, and that budget strongly predicts absolute revenue (r = 0.90) but has virtually no relationship with ROI (r = -0.001) — a key distinction for capital allocation. Includes genre profitability and director consistency rankings, visualized with density-based hexbin plots to handle large-N overplotting.
-* **Tech Stack:** Python, pandas, Matplotlib, Jupyter Notebook
-* **Repository:** [View Project](https://github.com/zcthinn/Movies-Data-Analysis)
+
+**Python · pandas · Matplotlib**
+
+Performed large-scale exploratory analysis of movie budgets, revenue, profitability, ratings and genre performance to identify relationships between production investment and commercial outcomes.
+
+**Best for:** Python analytics · Exploratory analysis · Statistical analysis
+
+→ [View Project](https://github.com/zcthinn/Movies-Data-Analysis)
+
 ---
 
 ## Technical Skill Set
