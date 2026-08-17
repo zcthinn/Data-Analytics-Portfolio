@@ -2,10 +2,9 @@
 
 A curated collection of end-to-end data analytics projects demonstrating practical skills in data preparation, SQL, Power BI, Excel, Python, statistical analysis, and business intelligence.
 
-Each project follows a business-focused workflow:
-
-
+Each project follows a business-focused workflow.
 The goal is to translate complex datasets into clear, actionable insights that support better business decisions.
+![WorkFlow](workflow.png)
 
 ## Projects
 
