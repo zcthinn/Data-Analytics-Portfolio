@@ -6,7 +6,7 @@ Each project follows a business-focused workflow.
 The goal is to translate complex datasets into clear, actionable insights that support better business decisions.
 ![WorkFlow](workflow.png)
 
-## Projects
+# Projects
 
 ## Business Intelligence & Dashboarding
 
@@ -85,7 +85,7 @@ Performed large-scale exploratory analysis of movie budgets, revenue, profitabil
 
 ---
 
-## Technical Skill Set
+# Technical Skill Set
 
 - **BI & Reporting:** Power BI, DAX, Power Query, Microsoft Excel
 - **SQL & Databases:** SQL, MySQL, Advanced SQL, Window Functions
@@ -96,7 +96,7 @@ Performed large-scale exploratory analysis of movie budgets, revenue, profitabil
 
 ---
 
-## Analytical Approach
+# Analytical Approach
 
 I focus on turning raw data into clear business insights by combining data preparation, analytical modelling, visualization, and structured problem-solving.
 
@@ -104,7 +104,7 @@ My approach is to move beyond reporting surface-level metrics and identify the u
 
 ---
 
-## Connect With Me
+# Connect With Me
 
 - **GitHub:** [@zcthinn](https://github.com/zcthinn)
 - **LinkedIn:** [Zar Chi Thinn](https://www.linkedin.com/in/zar-chi-thinn/)
