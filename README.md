@@ -1,8 +1,12 @@
 # Data Analytics Portfolio
 
-A curated collection of production-ready data analytics projects demonstrating expertise across the full analytics lifecycle — from raw data to statistical analysis, and strategic decision support. Each project is built to translate multi-dimensional data into quantifiable business impact.
+A curated collection of end-to-end data analytics projects demonstrating practical skills in data preparation, SQL, Power BI, Excel, Python, statistical analysis, and business intelligence.
 
----
+Each project follows a business-focused workflow:
+
+**Business Question → Data Preparation → Analysis → Visualization → Insight → Recommendation**
+
+The goal is to translate complex datasets into clear, actionable insights that support better business decisions.
 
 ## Projects
 
