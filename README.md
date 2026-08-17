@@ -13,12 +13,11 @@ The goal is to translate complex datasets into clear, actionable insights that s
 ## Business Intelligence & Dashboarding
 
 ### 1. Retail Sales Performance & Profit Analytics
-
-**Power BI · DAX · Power Query**
+**Focus :** Sales analytics · Commercial analytics · Management reporting
 
 Analysed 9,994 retail transactions to identify revenue, profitability, discounting and customer-segment drivers. Built an executive Power BI dashboard and translated findings into actionable recommendations for improving profit performance.
 
-**Best for:** Sales analytics · Commercial analytics · Management reporting
+**Technical Skills :** Power BI · DAX · Power Query
 
 → [View Project](https://github.com/zcthinn/retail-sales-powerbi-dashboard)
 
@@ -26,11 +25,11 @@ Analysed 9,994 retail transactions to identify revenue, profitability, discounti
 
 ### 2. Logistics Performance Analytics
 
-**Power BI · DAX · Power Query**
+**Focus :** Operations analytics · Logistics · KPI reporting
 
 Analysed logistics operations to identify the drivers behind delivery delays, customer satisfaction and capacity issues. Built interactive Power BI dashboards covering delivery performance, driver/vehicle performance and hub capacity.
 
-**Best for:** Operations analytics · Logistics · KPI reporting
+**Technical Skills :** Power BI · DAX · Power Query
 
 → [View Project](https://github.com/zcthinn/Logistics-Performance-Analytics)
 
@@ -38,11 +37,12 @@ Analysed logistics operations to identify the drivers behind delivery delays, cu
 
 ### 3. Hotel Booking Cancellation Risk & Business Impact
 
-**Excel · Statistical Analysis · Business Intelligence**
+**Focus :** Hospitality analytics · Revenue analytics · Business reporting
 
 Analysed hotel booking cancellations to understand revenue exposure, cancellation patterns and differences between hotel segments. Developed an interactive dashboard to support cancellation-risk and revenue-management decisions.
 
-**Best for:** Hospitality analytics · Revenue analytics · Business reporting
+**Technical Skills :** Excel · Statistical Analysis · Business Intelligence
+
 
 → [View Project](https://github.com/zcthinn/hotel-booking-cancellation-analysis)
 
@@ -52,11 +52,11 @@ Analysed hotel booking cancellations to understand revenue exposure, cancellatio
 
 ### 4. Employee & Workforce Analytics
 
-**MySQL · Advanced SQL · Window Functions**
+**Focus :**  HR analytics · SQL analysis · Workforce reporting
 
 Built a SQL-based workforce analysis examining organisational structure, compensation, promotions, employee performance and workforce trends using advanced relational queries and window functions.
 
-**Best for:** HR analytics · SQL analysis · Workforce reporting
+**Technical Skills :** MySQL · Advanced SQL · Window Functions
 
 → [View Project](https://github.com/zcthinn/Employee-Workforce-Analytics-SQL)
 
@@ -66,23 +66,22 @@ Built a SQL-based workforce analysis examining organisational structure, compens
 
 ### 5. Electronics Store Sales Analysis
 
-**Python · pandas · Matplotlib · Plotly**
+**Focus :** Python analytics · Exploratory data analysis · Sales analytics
 
 Analysed approximately 186K electronics transactions to identify monthly sales trends, geographic performance, purchasing patterns and product-level opportunities.
 
-**Best for:** Python analytics · Exploratory data analysis · Sales analytics
+**Technical Skills :** Python · pandas · Matplotlib · Plotly
 
 → [View Project](https://github.com/zcthinn/Electronic-Store-Sales-Data-Analysis)
 
 ---
 
 ### 6. Movies Data Analysis
-
-**Python · pandas · Matplotlib**
+**Focus :**  Python analytics · Exploratory analysis · Statistical analysis
 
 Performed large-scale exploratory analysis of movie budgets, revenue, profitability, ratings and genre performance to identify relationships between production investment and commercial outcomes.
 
-**Best for:** Python analytics · Exploratory analysis · Statistical analysis
+**Technical Skills :** Python · pandas · Matplotlib
 
 → [View Project](https://github.com/zcthinn/Movies-Data-Analysis)
 
